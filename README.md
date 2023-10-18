@@ -1,6 +1,10 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7rma&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7rma" /> </p>
 
