@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+I am a Front-End Web Developer who is constantly learning and growing in my field. Through a combination of self-teaching, completing courses, and collaborating with other developers, I have honed my skills and gained experience in JavaScript environments, particularly with React. I am passionate about software engineering and excited about the opportunity to contribute to any development team.
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
 </p>
