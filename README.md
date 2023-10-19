@@ -8,15 +8,15 @@ I am a Front-End Web Developer who is constantly learning and growing in my fiel
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  />
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7rma&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7rma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit7rma" alt="ankit7rma" /></a> </p>
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300B0F7&size=25&center=true&width=600&lines=Welcome+to+my+playground;My+creative+typing+stored+as+code+here)](https://git.io/typing-svg)
 
 </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit7rma&label=Profile%20views&color=0e75b6&style=flat" alt="ankit7rma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit7rma" alt="ankit7rma" /></a> </p>
 - 📫 How to reach me **ankitsharma290101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
