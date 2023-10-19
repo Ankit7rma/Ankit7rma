@@ -35,7 +35,7 @@ I am a Front-End Web Developer who is constantly learning and growing in my fiel
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Samx23&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img title="Shows your streak from git.io/streak-stats" alt="Sami's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ankit7rma&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
